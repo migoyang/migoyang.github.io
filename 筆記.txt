@@ -1,0 +1,59 @@
+h1{內容}+h2{內容2} 按tab
+
+代數可以用＄ > *6  >從一開始乘
+
++排後面
+>排裡面
+
+DIV>H1{}+H2{} 按tab
+整理
+
+
+<p></p>一般文字
+
+lorem 廢文產生器+數字 （單字數）
+
+
+<!— 顯示不出來啦 —> 註解
+快捷：選取後command+\
+
+
+command＋b 選一樣的字
+（隨便點一下就取消）
+
+<a href=“網址” target=“_blank”>字</a>  超連結(另開分頁)
+
+綠 屬性
+橘 值
+<html lang=“en”> <html lang=“zh-tw”>
+
+動態網站>
+ruby on rails ->
+nodejs ->angular2(google)typescript* C# / react(facebook)不流行了ecma6 / vue(cn)javascript
+
+
+../ 退回一層
+
+
+img
+src位置
+alt名稱（圖片壞掉時）
+title指標停住時
+
+https://unsplash.it/800寬度/400高度
+https//source.unsplash,com/1000x200?nature
+
+AMP規範
+
+color: rgba(255,0,0,0.);
+選取後command+e選色器
+
+UTF-8 or UTF-16
+
+<nav>導覽列ㄉ標籤
+<header> 首圖 品牌slogan
+<section>內容
+<footer>最下面放電話
+<article>文章(blog)
+
+
